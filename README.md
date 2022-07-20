@@ -14,3 +14,7 @@ This is this awful at:
 
 Note that this requires [Tessearct](https://github.com/tesseract-ocr/tesseract)
 to be in your path! Unfortunately, the program shells out to it.
+
+# Demo (only the cool part)
+
+https://user-images.githubusercontent.com/23270108/179949641-0c763749-49b6-44f0-9a90-196e32fae6b5.mp4
