@@ -1,6 +1,6 @@
 # Fruit Bot
 
-Some OpenCV and PyAutoGUI code monkey to automatically play [Fruit
+Some OpenCV and PyAutoGUI code monkeying to automatically play [Fruit
 Box](https://www.gamesaien.com/game/fruit_box_a/) (both English and Japanese).
 
 Things this is good at:
