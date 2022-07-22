@@ -2,6 +2,8 @@
 
 Some OpenCV and PyAutoGUI code monkeying to automatically play [Fruit
 Box](https://www.gamesaien.com/game/fruit_box_a/) (both English and Japanese).
+Pair programmed with [stephen-huan](https://github.com/stephen-huan) in one
+night.
 
 Things this is good at:
 - Finding the game on the screen
